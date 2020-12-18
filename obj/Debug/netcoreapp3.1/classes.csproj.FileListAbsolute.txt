@@ -1,0 +1,12 @@
+/Users/dani.sadorf/Desktop/CSPractice/classes/bin/Debug/netcoreapp3.1/classes.deps.json
+/Users/dani.sadorf/Desktop/CSPractice/classes/bin/Debug/netcoreapp3.1/classes.runtimeconfig.json
+/Users/dani.sadorf/Desktop/CSPractice/classes/bin/Debug/netcoreapp3.1/classes.runtimeconfig.dev.json
+/Users/dani.sadorf/Desktop/CSPractice/classes/bin/Debug/netcoreapp3.1/classes.dll
+/Users/dani.sadorf/Desktop/CSPractice/classes/bin/Debug/netcoreapp3.1/classes.pdb
+/Users/dani.sadorf/Desktop/CSPractice/classes/obj/Debug/netcoreapp3.1/classes.csprojAssemblyReference.cache
+/Users/dani.sadorf/Desktop/CSPractice/classes/obj/Debug/netcoreapp3.1/classes.AssemblyInfoInputs.cache
+/Users/dani.sadorf/Desktop/CSPractice/classes/obj/Debug/netcoreapp3.1/classes.AssemblyInfo.cs
+/Users/dani.sadorf/Desktop/CSPractice/classes/obj/Debug/netcoreapp3.1/classes.csproj.CoreCompileInputs.cache
+/Users/dani.sadorf/Desktop/CSPractice/classes/obj/Debug/netcoreapp3.1/classes.dll
+/Users/dani.sadorf/Desktop/CSPractice/classes/obj/Debug/netcoreapp3.1/classes.pdb
+/Users/dani.sadorf/Desktop/CSPractice/classes/obj/Debug/netcoreapp3.1/classes.genruntimeconfig.cache
